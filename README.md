@@ -9,6 +9,7 @@
 </div>
 
 ###
+![cat-laptop](https://github.com/user-attachments/assets/a8d7bf9a-d1da-411c-a73b-2a48bb74c785)
 
 <img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media1.tenor.com/m/6hVEKMxmQLUAAAAC/cat-laptop.gif)"  />
 
