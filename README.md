@@ -7,11 +7,10 @@
   <img src="https://streak-stats.demolab.com?user=Jash-codes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jash-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-![cat-laptop](https://github.com/user-attachments/assets/cc074d70-d3e6-4745-b4a0-2fc2b329540c)
-###
-
+<div align="right">
+  ![cat-laptop](https://github.com/user-attachments/assets/f1750903-d7bb-47f4-ac11-1c87fcfe46b3)
+  <img width="50" />
+</div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
