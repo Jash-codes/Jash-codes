@@ -9,8 +9,7 @@
 </div>
 
 ###
-[cat-laptop](https://github.com/user-attachments/assets/a8d7bf9a-d1da-411c-a73b-2a48bb74c785)
-
+![cat-laptop](https://github.com/user-attachments/assets/cc074d70-d3e6-4745-b4a0-2fc2b329540c)
 ###
 
 <div align="left">
