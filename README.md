@@ -6,7 +6,7 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Jash-codes&theme=highcontrast&hide_border=true" height="160" alt="GitHub Streak" />
   </a>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzQxbHM3cHV6aHR0N3dqejEybGxjdTcxcmQ2Z3ppMXo1dWZhOXZoMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200.gif" height="160" alt="Coding GIF" />
+  <img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif" />
 </div>
 
 <br>
