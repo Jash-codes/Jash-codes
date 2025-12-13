@@ -1,10 +1,8 @@
 <h2 align="left">Hi👋! My name is Jashwanth</h2>
 
 ###
-<div align="left">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jash-codes&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-</div>
-<div align="center">
+<div align="right">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzQxbHM3cHV6aHR0N3dqejEybGxjdTcxcmQ2Z3ppMXo1dWZhOXZoMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200.gif" />
   </div>
 
