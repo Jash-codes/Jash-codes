@@ -1,8 +1,9 @@
 <h2 align="left">Hi👋! My name is Jashwanth</h2>
 
 ###
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jash-codes)](https://git.io/streak-stats)
+
 <div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Jash-codes)](https://git.io/streak-stats)
   <!-- <img src="https://streak-stats.demolab.com?user=Jash-codes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzQxbHM3cHV6aHR0N3dqejEybGxjdTcxcmQ2Z3ppMXo1dWZhOXZoMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200.gif" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jash-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> -->
