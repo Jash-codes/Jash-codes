@@ -3,9 +3,6 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Jash-codes&theme=highcontrast&hide_border=true" height="160" alt="GitHub Streak" />
-  </a>
   <img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif" />
 </div>
 
